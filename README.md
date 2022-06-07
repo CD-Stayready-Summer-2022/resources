@@ -33,6 +33,10 @@ Passcode: erWf#6Mz
 
 # Day 2
 
+    * [Section 5 - 55 - 78](https://codedifferently.udemy.com/course/practical-java-course/learn/lecture/17122556?course_portion_id=194228&learning_path_id=2950950#overview)
+
+# Day 3
+
 Today’s objective is to illustrate the purpose of Interfaces, and the part that they play in polymorphic design. It is also important to deepen the knowledge of S.O.L.I.D principles and Clean Coding.
 
 * S.O.L.I.D. Principles
