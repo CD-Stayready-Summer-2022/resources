@@ -33,7 +33,8 @@ Passcode: erWf#6Mz
 
 # Day 2
 
-    * [Section 5 - 55 - 78](https://codedifferently.udemy.com/course/practical-java-course/learn/lecture/17122556?course_portion_id=194228&learning_path_id=2950950#overview)
+* [Section 5 - 55 - 78](https://codedifferently.udemy.com/course/practical-java-course/learn/lecture/17122556?course_portion_id=194228&learning_path_id=2950950#overview)
+* [Intro to TDD](https://codedifferently.udemy.com/course/test-driven-development-tdd-essentials-training-course/)
 
 # Day 3
 
