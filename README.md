@@ -33,6 +33,9 @@ Passcode: erWf#6Mz
 
 # Day 2
 
+# [Afternoon Access Passcode: nN#e27FR](https://us02web.zoom.us/rec/share/21fiM-DQ_it3vR2AEyeauDsUnwALCGBjJaSRW7EXati8VXeYyvJbA2cyocYj2u-l.vDFvQ3N-jX5sN8kf)
+
+
 * [Section 5 - 55 - 78](https://codedifferently.udemy.com/course/practical-java-course/learn/lecture/17122556?course_portion_id=194228&learning_path_id=2950950#overview)
 * [Intro to TDD](https://codedifferently.udemy.com/course/test-driven-development-tdd-essentials-training-course/)
 
