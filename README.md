@@ -34,7 +34,6 @@ Passcode: erWf#6Mz
 # Day 2
 * [Morning Access Passcode: 1w#Yknpe](https://us02web.zoom.us/rec/share/38CRT1s4u6ssu75ZCdyt0I-SkrFbXWY6lIMLRlioN5WQRhpohmMFYct_1h_lVH_h.lBWitNcP2eE9upNe)
 
-
 # [Afternoon Access Passcode: nN#e27FR](https://us02web.zoom.us/rec/share/21fiM-DQ_it3vR2AEyeauDsUnwALCGBjJaSRW7EXati8VXeYyvJbA2cyocYj2u-l.vDFvQ3N-jX5sN8kf)
 
 
