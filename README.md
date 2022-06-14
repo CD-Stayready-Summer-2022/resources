@@ -1,3 +1,8 @@
+# Books
+
+* [Clean Code](./assets/Clean%20Code.pdf)
+* [Core Java](/assets/core-java-volume-1-fundamentals-10th.pdf)
+
 # Day 1
 
 * Students at this point should know:
@@ -64,8 +69,26 @@ Today’s objective is to illustrate the purpose of Interfaces, and the part tha
 * [Udemy Java for Beginners Section 5](https://codedifferently.udemy.com/course/practical-java-course/learn/lecture/17122556?course_portion_id=194228&learning_path_id=2950950#overview)
 * [Intro to TDD](https://codedifferently.udemy.com/course/test-driven-development-tdd-essentials-training-course/)
 
-### Assets
 
-* [Clean Code](./assets/Clean%20Code.pdf)
-* [Core Java](/assets/core-java-volume-1-fundamentals-10th.pdf)
+# Day 4
+* [Morning Passcode: 6p?I10ny](https://us02web.zoom.us/rec/share/6p46GDFbMTYXqBJFqwSK6X4tmAu1BcgPxRtZjDfrIRnAbn6pLz99L2ZQ0Ws77LBU.wlKJZGC11afk1Ljg?startTime=1654779703000)
+* [Afternoon Passcode: 6p?I10ny](https://us02web.zoom.us/rec/share/6p46GDFbMTYXqBJFqwSK6X4tmAu1BcgPxRtZjDfrIRnAbn6pLz99L2ZQ0Ws77LBU.wlKJZGC11afk1Ljg?startTime=1654797851000)
+
+# Day 5 Jun 10
+* [Moring Passcode: Q!E$J43^](https://us02web.zoom.us/rec/share/BIyjfVb2aCAm1DY12G2UUGqxcPw6QWH2veAlRQnR_7cX3FZZ5UNtUhYayhnlYoc2.oRUEnXqVGyxagpW9?startTime=1654867229000)
+* [Afternoon Passcode: Q!E$J43^](https://us02web.zoom.us/rec/share/BIyjfVb2aCAm1DY12G2UUGqxcPw6QWH2veAlRQnR_7cX3FZZ5UNtUhYayhnlYoc2.oRUEnXqVGyxagpW9?startTime=1654887145000)
+
+# Day 6 Jun 13
+
+* [Morning Passcode: v*cE?FP0](https://us02web.zoom.us/rec/share/acKrRKYoZCMtF9oTbqGlyGq5M0u4WUnHIY_zF-Wt4gu9Rz8B6ukKM6x43xBLgM_q.krFpvV49XCaShU9_?startTime=1655127048000)
+* [Afternoon Passcode: v*cE?FP0](https://us02web.zoom.us/rec/share/acKrRKYoZCMtF9oTbqGlyGq5M0u4WUnHIY_zF-Wt4gu9Rz8B6ukKM6x43xBLgM_q.krFpvV49XCaShU9_?startTime=1655145647000)
+
+
+# Day 7 Jun 14
+
+* [Morning Passcode: pfuK3e7*](https://us02web.zoom.us/rec/share/0pFOyGLhBbQi-S6ZZGQt8MhbO2Ac2fQtkpJwHUAq4KA2reX1BmSc_ZQC87UdjRdZ.UxjPiQxbRdmUgKmP?startTime=1655212615000)
+* [Afternoon Passcode: 3nVR$Gwb](https://us02web.zoom.us/rec/share/2-sdWnnCHAGE-YrlkQoFVK6-7pf3e_MmMWWBuuM47_ij9zYBNmLoCG8dAPt2Zax3.I8rMre9njfCaK-P5?startTime=1655228306000)
+
+
+
 
