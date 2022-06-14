@@ -63,3 +63,9 @@ Today’s objective is to illustrate the purpose of Interfaces, and the part tha
 * Stay Ready Lab 02
 * [Udemy Java for Beginners Section 5](https://codedifferently.udemy.com/course/practical-java-course/learn/lecture/17122556?course_portion_id=194228&learning_path_id=2950950#overview)
 * [Intro to TDD](https://codedifferently.udemy.com/course/test-driven-development-tdd-essentials-training-course/)
+
+### Assets
+
+* [Clean Code](./assets/Clean%20Code.pdf)
+* [Core Java](/assets/core-java-volume-1-fundamentals-10th.pdf)
+
