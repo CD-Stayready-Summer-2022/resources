@@ -89,6 +89,12 @@ Today’s objective is to illustrate the purpose of Interfaces, and the part tha
 * [Morning Passcode: pfuK3e7*](https://us02web.zoom.us/rec/share/0pFOyGLhBbQi-S6ZZGQt8MhbO2Ac2fQtkpJwHUAq4KA2reX1BmSc_ZQC87UdjRdZ.UxjPiQxbRdmUgKmP?startTime=1655212615000)
 * [Afternoon Passcode: 3nVR$Gwb](https://us02web.zoom.us/rec/share/2-sdWnnCHAGE-YrlkQoFVK6-7pf3e_MmMWWBuuM47_ij9zYBNmLoCG8dAPt2Zax3.I8rMre9njfCaK-P5?startTime=1655228306000)
 
+### Slides
+
+* [Objects and Classes](./assets/ObjectsAndClasses.pdf)
+* [Inheritance](./assets/Inheritance.pdf)
+* [Exceptions](./assets/Exceptions.pdf)
+* [Collections](./assets/Collections.pdf)
 
 
 
