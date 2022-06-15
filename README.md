@@ -1,7 +1,8 @@
 # Books
 
 * [Clean Code](./assets/Clean%20Code.pdf)
-* [Core Java](/assets/core-java-volume-1-fundamentals-10th.pdf)
+* [Core Java](./assets/core-java-volume-1-fundamentals-10th.pdf)
+* [UML for Java](./assets/UML%20For%20Java%20Programmers%20-%202002%20-%20(By%20Laxxuss).pdf)
 
 # Day 1
 
