@@ -99,4 +99,12 @@ Today’s objective is to illustrate the purpose of Interfaces, and the part tha
 * [Collections](./assets/Collections.pdf)
 
 
+# Jun 16
+* [Class Recording Passcode: grwN3&B0](https://us02web.zoom.us/rec/share/ZEZAYWuSj74Dbtiz0BJhW8UWCX5M_-AXvQSidM-THz3f0uuv5mG_rf4zZv1LQV9b.mTE37Cbe2eVc7xss?startTime=1655386638000)
 
+# Jun 21
+* [Class Recording Passcode: ^%%26RYH](https://us02web.zoom.us/rec/share/MQjm2aWpER6yk2HQ7tNyrDjlVidtEjLDqFTScgovIqJ3pAlTUCSSuh3UJkISRmVb.UxMfFYE1FJGNatUo?startTime=1655818361000)
+
+# Jun 23
+* [Morning session Passcode: 3V^p9a9h](https://us02web.zoom.us/rec/share/-9FMLLOxpJY0JuiAT0Smau1LguXkpn0A8AbWwtUTgYEPnNmn6oTDNpyPwNNDxNM0.045p9CC9mOeRj0sF?startTime=1655990063000)
+* [Afternoon session Passcode: RXjX=s0B](https://us02web.zoom.us/rec/share/tnINM8KEAQs0ZzDi-xEjJ7cewGBxnTtlpXGba8GvVxO1F8A1DPMoVS5xjMYMpJrw.akHJq-bW-hk5ue-M?startTime=1656005603000)
