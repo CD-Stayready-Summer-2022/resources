@@ -4,7 +4,8 @@
 * [Core Java](./assets/core-java-volume-1-fundamentals-10th.pdf)
 * [UML for Java](./assets/UML%20For%20Java%20Programmers%20-%202002%20-%20(By%20Laxxuss).pdf)
 * [Grokking Algorithms](./assets/grokking-algorithms-illustrated-programmers-curious.pdf)
-
+* [Head First Design Patterns](./assets/headfirstdesignpatterns_ebook.pdf)
+* [Crack The Coding Interview](./assets//Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf)
 # Day 1
 
 * Students at this point should know:
