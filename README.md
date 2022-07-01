@@ -113,3 +113,7 @@ Today’s objective is to illustrate the purpose of Interfaces, and the part tha
 # Jun 30
 * [Jun 30, 2022 08:45 AM passcode:3rO&Efn1](https://us02web.zoom.us/rec/share/FhVIslpoFy-3EKeOIfH_WMEJYwhXP75bPHRHHMc9K4NsWY4f0po2MbC5tgiOQXIX.r3kqLyYJNIzsRZzz)
 * [Jun 30, 2022 01:31 PM passcode:U3h*.MaF](https://us02web.zoom.us/rec/share/XlFSLe-UWFxwKQSB2Apbh_RiRj76CdWYcMVo64KqVjaPlNuM5tbLAEA1RlPt38_U.CvFDjhCzr-qFrP6z)
+
+# Jul 1
+* [Jul 1, 2022 Access Passcode: F1QMEm%8](https://us02web.zoom.us/rec/share/yEnJj4ksvGxJQxUtlblWFDtCv3WqmDKR4cKiYrVU5cjxYXblSsB7byng3Wqj-4ys.h8StZ7IPgdHu_-pU)
+* [Jul 1, 2022 01:24 PM Access Passcode: 0&qNB09%](https://us02web.zoom.us/rec/share/pFz5C6IGedN9yzpQc2TGHbtEEn2UwVA6RhiIEnXs7hrVlodkf3n_44gX6uQkKSSS.077_p-2NqS3axQ43)
